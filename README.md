@@ -1,4 +1,4 @@
-# leaflet-challenge
+# javascript-geology
 
 Hello! This is the Module 15 Challenge for Rice University's Data Analytics & Visualization Bootcamp. Woohoo!
 
