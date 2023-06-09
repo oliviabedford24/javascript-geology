@@ -8,7 +8,4 @@ The main code body for this challenge is contained in the "leaflet" folder in th
 
 The code contained in this file is my original work. I obtained advice and assistance from Rice University's team of instructors and tutors, but the work itself is mine and mine alone.
 
-Psst. Why shouldn't you let a geologist drive your car?
-....because they get hammered and stoned. 
-
-*ba-dum tssss*
+Thank you!
